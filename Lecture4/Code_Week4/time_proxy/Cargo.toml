@@ -1,0 +1,9 @@
+[package]
+name = "time_proxy"
+version = "0.1.0"
+edition = "2024"
+build = "build.rs"
+
+[dependencies]
+hotaru = { version = "0.8.2", features = ["https"] }
+tokio = { version = "1", features = ["full"] }

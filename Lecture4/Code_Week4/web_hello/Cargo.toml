@@ -1,0 +1,9 @@
+[package]
+name = "web_hello"
+version = "0.1.0"
+edition = "2024" 
+build = "build.rs" 
+
+[dependencies]
+hotaru = "0.8.1"
+tokio = { version = "1", features = ["full"] }
