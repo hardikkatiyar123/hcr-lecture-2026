@@ -4,7 +4,9 @@
 
 Professor - Aquil Mirza Mohammed 
 
-Student Mentors - Haozhe Ruan, Suyu Jiang, Jiuyuan Zhao 
+Mentors - Haozhe Ruan, Suyu Jiang, Jiuyuan Zhao 
+
+If you identify any issues in slides/codes please write an issue directly or contact us. 
 
 ### 2026.06.03 Project 1 is released 
 
